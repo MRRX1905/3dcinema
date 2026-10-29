@@ -1,0 +1,8 @@
+{
+  "name": "Lumière 3D - Virtual Grand Cinema & Offline Streaming",
+  "description": "Web film streaming platform featuring an immersive 3D Grand Luxury Cinema, spatial personalized recommendations, and true client-side offline viewing with IndexedDB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
